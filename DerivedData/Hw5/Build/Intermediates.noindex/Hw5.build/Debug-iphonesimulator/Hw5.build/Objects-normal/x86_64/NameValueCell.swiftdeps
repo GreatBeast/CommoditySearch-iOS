@@ -1,0 +1,400 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NameValueCell"
+provides-nominal:
+- "3Hw513NameValueCellC"
+provides-member:
+- ["3Hw513NameValueCellC", ""]
+provides-dynamic-lookup:
+- "name"
+- "value"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- !private "NSLineBreakMode"
+- "NameValueCell"
+- "UILabel"
+- "UITableViewCell"
+- "nameValue"
+depends-member:
+- !private ["So15CALayerDelegateP", "NSLineBreakMode"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "lineBreakMode"]
+- !private ["So15CALayerDelegateP", "name"]
+- !private ["So15CALayerDelegateP", "numberOfLines"]
+- !private ["So15CALayerDelegateP", "sizeToFit"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["So15CALayerDelegateP", "value"]
+- !private ["s7CVarArgP", "NSLineBreakMode"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "lineBreakMode"]
+- !private ["s7CVarArgP", "name"]
+- !private ["s7CVarArgP", "numberOfLines"]
+- !private ["s7CVarArgP", "sizeToFit"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "value"]
+- !private ["s28CustomDebugStringConvertibleP", "NSLineBreakMode"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "lineBreakMode"]
+- !private ["s28CustomDebugStringConvertibleP", "name"]
+- !private ["s28CustomDebugStringConvertibleP", "numberOfLines"]
+- !private ["s28CustomDebugStringConvertibleP", "sizeToFit"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "value"]
+- !private ["s17CustomReflectableP", "lineBreakMode"]
+- !private ["s17CustomReflectableP", "numberOfLines"]
+- !private ["s17CustomReflectableP", "sizeToFit"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s23CustomStringConvertibleP", "NSLineBreakMode"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "lineBreakMode"]
+- !private ["s23CustomStringConvertibleP", "name"]
+- !private ["s23CustomStringConvertibleP", "numberOfLines"]
+- !private ["s23CustomStringConvertibleP", "sizeToFit"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "value"]
+- !private ["Se", "lineBreakMode"]
+- !private ["Se", "numberOfLines"]
+- !private ["Se", "sizeToFit"]
+- !private ["Se", "text"]
+- !private ["SE", "lineBreakMode"]
+- !private ["SE", "numberOfLines"]
+- !private ["SE", "sizeToFit"]
+- !private ["SE", "text"]
+- !private ["SQ", "NSLineBreakMode"]
+- ["SQ", ""]
+- !private ["SQ", "byWordWrapping"]
+- !private ["SQ", "init"]
+- !private ["SQ", "lineBreakMode"]
+- !private ["SQ", "name"]
+- !private ["SQ", "numberOfLines"]
+- !private ["SQ", "sizeToFit"]
+- !private ["SQ", "text"]
+- !private ["SQ", "value"]
+- !private ["s23ExpressibleByNilLiteralP", "lineBreakMode"]
+- !private ["s23ExpressibleByNilLiteralP", "numberOfLines"]
+- !private ["s23ExpressibleByNilLiteralP", "sizeToFit"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["SH", "NSLineBreakMode"]
+- ["SH", ""]
+- !private ["SH", "byWordWrapping"]
+- !private ["SH", "init"]
+- !private ["SH", "lineBreakMode"]
+- !private ["SH", "name"]
+- !private ["SH", "numberOfLines"]
+- !private ["SH", "sizeToFit"]
+- !private ["SH", "text"]
+- !private ["SH", "value"]
+- !private ["So8NSCodingP", "NSLineBreakMode"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "lineBreakMode"]
+- !private ["So8NSCodingP", "name"]
+- !private ["So8NSCodingP", "numberOfLines"]
+- !private ["So8NSCodingP", "sizeToFit"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "value"]
+- !private ["So15NSLineBreakModeV", "byWordWrapping"]
+- !private ["So8NSObjectC", "NSLineBreakMode"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "lineBreakMode"]
+- ["So8NSObjectC", "name"]
+- ["So8NSObjectC", "nameValue"]
+- !private ["So8NSObjectC", "numberOfLines"]
+- ["So8NSObjectC", "setNameValue"]
+- !private ["So8NSObjectC", "sizeToFit"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "value"]
+- !private ["So8NSObjectP", "NSLineBreakMode"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "lineBreakMode"]
+- !private ["So8NSObjectP", "name"]
+- !private ["So8NSObjectP", "numberOfLines"]
+- !private ["So8NSObjectP", "sizeToFit"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "value"]
+- !private ["3Hw513NameValueCellC", "NSLineBreakMode"]
+- ["3Hw513NameValueCellC", "UILabel"]
+- ["3Hw513NameValueCellC", "deinit"]
+- ["3Hw513NameValueCellC", "init"]
+- ["3Hw513NameValueCellC", "name"]
+- ["3Hw513NameValueCellC", "nameValue"]
+- ["3Hw513NameValueCellC", "setNameValue"]
+- ["3Hw513NameValueCellC", "value"]
+- !private ["Sq", "lineBreakMode"]
+- !private ["Sq", "numberOfLines"]
+- !private ["Sq", "sizeToFit"]
+- !private ["Sq", "text"]
+- !private ["SY", "byWordWrapping"]
+- !private ["So29UIAccessibilityIdentificationP", "NSLineBreakMode"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "lineBreakMode"]
+- !private ["So29UIAccessibilityIdentificationP", "name"]
+- !private ["So29UIAccessibilityIdentificationP", "numberOfLines"]
+- !private ["So29UIAccessibilityIdentificationP", "sizeToFit"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So29UIAccessibilityIdentificationP", "value"]
+- !private ["So12UIAppearanceP", "NSLineBreakMode"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "lineBreakMode"]
+- !private ["So12UIAppearanceP", "name"]
+- !private ["So12UIAppearanceP", "numberOfLines"]
+- !private ["So12UIAppearanceP", "sizeToFit"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So12UIAppearanceP", "value"]
+- !private ["So21UIAppearanceContainerP", "NSLineBreakMode"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "lineBreakMode"]
+- !private ["So21UIAppearanceContainerP", "name"]
+- !private ["So21UIAppearanceContainerP", "numberOfLines"]
+- !private ["So21UIAppearanceContainerP", "sizeToFit"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "value"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "lineBreakMode"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "numberOfLines"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "sizeToFit"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "NSLineBreakMode"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "lineBreakMode"]
+- !private ["So17UICoordinateSpaceP", "name"]
+- !private ["So17UICoordinateSpaceP", "numberOfLines"]
+- !private ["So17UICoordinateSpaceP", "sizeToFit"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So17UICoordinateSpaceP", "value"]
+- !private ["So13UIDynamicItemP", "NSLineBreakMode"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "lineBreakMode"]
+- !private ["So13UIDynamicItemP", "name"]
+- !private ["So13UIDynamicItemP", "numberOfLines"]
+- !private ["So13UIDynamicItemP", "sizeToFit"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So13UIDynamicItemP", "value"]
+- !private ["So18UIFocusEnvironmentP", "NSLineBreakMode"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "lineBreakMode"]
+- !private ["So18UIFocusEnvironmentP", "name"]
+- !private ["So18UIFocusEnvironmentP", "numberOfLines"]
+- !private ["So18UIFocusEnvironmentP", "sizeToFit"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "value"]
+- !private ["So11UIFocusItemP", "NSLineBreakMode"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "lineBreakMode"]
+- !private ["So11UIFocusItemP", "name"]
+- !private ["So11UIFocusItemP", "numberOfLines"]
+- !private ["So11UIFocusItemP", "sizeToFit"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So11UIFocusItemP", "value"]
+- !private ["So20UIFocusItemContainerP", "NSLineBreakMode"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "lineBreakMode"]
+- !private ["So20UIFocusItemContainerP", "name"]
+- !private ["So20UIFocusItemContainerP", "numberOfLines"]
+- !private ["So20UIFocusItemContainerP", "sizeToFit"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So20UIFocusItemContainerP", "value"]
+- !private ["So27UIGestureRecognizerDelegateP", "NSLineBreakMode"]
+- ["So27UIGestureRecognizerDelegateP", ""]
+- !private ["So27UIGestureRecognizerDelegateP", "init"]
+- !private ["So27UIGestureRecognizerDelegateP", "name"]
+- !private ["So27UIGestureRecognizerDelegateP", "value"]
+- !private ["So7UILabelC", "lineBreakMode"]
+- !private ["So7UILabelC", "numberOfLines"]
+- !private ["So7UILabelC", "sizeToFit"]
+- !private ["So7UILabelC", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSLineBreakMode"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "lineBreakMode"]
+- !private ["So30UIPasteConfigurationSupportingP", "name"]
+- !private ["So30UIPasteConfigurationSupportingP", "numberOfLines"]
+- !private ["So30UIPasteConfigurationSupportingP", "sizeToFit"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "value"]
+- !private ["So11UIResponderC", "NSLineBreakMode"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "lineBreakMode"]
+- ["So11UIResponderC", "name"]
+- ["So11UIResponderC", "nameValue"]
+- !private ["So11UIResponderC", "numberOfLines"]
+- ["So11UIResponderC", "setNameValue"]
+- !private ["So11UIResponderC", "sizeToFit"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "value"]
+- !private ["So30UIResponderStandardEditActionsP", "NSLineBreakMode"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "lineBreakMode"]
+- !private ["So30UIResponderStandardEditActionsP", "name"]
+- !private ["So30UIResponderStandardEditActionsP", "numberOfLines"]
+- !private ["So30UIResponderStandardEditActionsP", "sizeToFit"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "value"]
+- !private ["So15UITableViewCellC", "NSLineBreakMode"]
+- ["So15UITableViewCellC", "UILabel"]
+- ["So15UITableViewCellC", ""]
+- ["So15UITableViewCellC", "init"]
+- ["So15UITableViewCellC", "name"]
+- ["So15UITableViewCellC", "nameValue"]
+- ["So15UITableViewCellC", "setNameValue"]
+- ["So15UITableViewCellC", "value"]
+- !private ["So18UITraitEnvironmentP", "NSLineBreakMode"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "lineBreakMode"]
+- !private ["So18UITraitEnvironmentP", "name"]
+- !private ["So18UITraitEnvironmentP", "numberOfLines"]
+- !private ["So18UITraitEnvironmentP", "sizeToFit"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "value"]
+- !private ["So23UIUserActivityRestoringP", "NSLineBreakMode"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "lineBreakMode"]
+- !private ["So23UIUserActivityRestoringP", "name"]
+- !private ["So23UIUserActivityRestoringP", "numberOfLines"]
+- !private ["So23UIUserActivityRestoringP", "sizeToFit"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "value"]
+- !private ["So6UIViewC", "NSLineBreakMode"]
+- ["So6UIViewC", "UILabel"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "lineBreakMode"]
+- ["So6UIViewC", "name"]
+- ["So6UIViewC", "nameValue"]
+- !private ["So6UIViewC", "numberOfLines"]
+- ["So6UIViewC", "setNameValue"]
+- !private ["So6UIViewC", "sizeToFit"]
+- !private ["So6UIViewC", "text"]
+- ["So6UIViewC", "value"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSLineBreakMode"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lineBreakMode"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "name"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "numberOfLines"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sizeToFit"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "value"]
+- !private ["s21_ObjectiveCBridgeableP", "lineBreakMode"]
+- !private ["s21_ObjectiveCBridgeableP", "numberOfLines"]
+- !private ["s21_ObjectiveCBridgeableP", "sizeToFit"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "NSLineBreakMode"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "lineBreakMode"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "name"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "numberOfLines"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "sizeToFit"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "value"]
+- !private ["3Hw59nameValueC", "detail"]
+- !private ["3Hw59nameValueC", "title"]
+depends-nominal:
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- "So8NSCodingP"
+- !private "So15NSLineBreakModeV"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "3Hw513NameValueCellC"
+- !private "Sq"
+- !private "SY"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So27UIGestureRecognizerDelegateP"
+- !private "So7UILabelC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So15UITableViewCellC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+- !private "3Hw59nameValueC"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Products/Debug-iphonesimulator/McPicker/McPicker.framework/Modules/McPicker.swiftmodule/x86_64.swiftmodule"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Products/Debug-iphonesimulator/SwiftSpinner/SwiftSpinner.framework/Modules/SwiftSpinner.swiftmodule/x86_64.swiftmodule"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Products/Debug-iphonesimulator/Toast-Swift/Toast_Swift.framework/Modules/Toast_Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Products/Debug-iphonesimulator/McPicker/McPicker.framework/Headers/McPicker-umbrella.h"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Products/Debug-iphonesimulator/SwiftSpinner/SwiftSpinner.framework/Headers/SwiftSpinner-umbrella.h"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Products/Debug-iphonesimulator/Toast-Swift/Toast_Swift.framework/Headers/Toast-Swift-umbrella.h"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Products/Debug-iphonesimulator/SwiftSpinner/SwiftSpinner.framework/Headers/SwiftSpinner.h"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Products/Debug-iphonesimulator/McPicker/McPicker.framework/Headers/McPicker-Swift.h"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Products/Debug-iphonesimulator/SwiftSpinner/SwiftSpinner.framework/Headers/SwiftSpinner-Swift.h"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Products/Debug-iphonesimulator/Toast-Swift/Toast_Swift.framework/Headers/Toast_Swift-Swift.h"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Products/Debug-iphonesimulator/McPicker/McPicker.framework/Modules/module.modulemap"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Products/Debug-iphonesimulator/SwiftSpinner/SwiftSpinner.framework/Modules/module.modulemap"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Products/Debug-iphonesimulator/Toast-Swift/Toast_Swift.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "83d92f53dd024ade17f505f9994dfdc6"

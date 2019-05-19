@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "8a5ab9c8e05fc1d58ab1f7f22aa286d8"
+build_time: [1555297346, 39522000]
+inputs:
+  "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/Pods/SwiftSpinner/SwiftSpinner/SwiftSpinner.swift": [1554764221, 56472316]

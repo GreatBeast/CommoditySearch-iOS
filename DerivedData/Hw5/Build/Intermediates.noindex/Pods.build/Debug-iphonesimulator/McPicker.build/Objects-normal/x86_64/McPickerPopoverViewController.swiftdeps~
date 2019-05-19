@@ -1,0 +1,358 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "McPickerPopoverViewController"
+provides-nominal:
+- "8McPicker0aB21PopoverViewControllerC"
+provides-member:
+- ["8McPicker0aB21PopoverViewControllerC", ""]
+provides-dynamic-lookup:
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bundle"
+- "McPicker"
+- "McPickerPopoverViewController"
+- "NSCoder"
+- "String"
+- "UIViewController"
+depends-member:
+- !private ["So15CALayerDelegateP", "addAllSubviews"]
+- !private ["So15CALayerDelegateP", "addSubview"]
+- !private ["So15CALayerDelegateP", "popOverContentSize"]
+- !private ["So15CALayerDelegateP", "sizeViews"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "addAllSubviews"]
+- !private ["s7CVarArgP", "addSubview"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "mcPicker"]
+- !private ["s7CVarArgP", "popOverContentSize"]
+- !private ["s7CVarArgP", "preferredContentSize"]
+- !private ["s7CVarArgP", "sizeViews"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addAllSubviews"]
+- !private ["s28CustomDebugStringConvertibleP", "addSubview"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "mcPicker"]
+- !private ["s28CustomDebugStringConvertibleP", "popOverContentSize"]
+- !private ["s28CustomDebugStringConvertibleP", "preferredContentSize"]
+- !private ["s28CustomDebugStringConvertibleP", "sizeViews"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "addSubview"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "addAllSubviews"]
+- !private ["s23CustomStringConvertibleP", "addSubview"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "mcPicker"]
+- !private ["s23CustomStringConvertibleP", "popOverContentSize"]
+- !private ["s23CustomStringConvertibleP", "preferredContentSize"]
+- !private ["s23CustomStringConvertibleP", "sizeViews"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "addSubview"]
+- !private ["SE", "addSubview"]
+- ["SQ", ""]
+- !private ["SQ", "addAllSubviews"]
+- !private ["SQ", "addSubview"]
+- !private ["SQ", "init"]
+- !private ["SQ", "mcPicker"]
+- !private ["SQ", "popOverContentSize"]
+- !private ["SQ", "preferredContentSize"]
+- !private ["SQ", "sizeViews"]
+- !private ["SQ", "view"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s23ExpressibleByNilLiteralP", "addSubview"]
+- ["SH", ""]
+- !private ["SH", "addAllSubviews"]
+- !private ["SH", "addSubview"]
+- !private ["SH", "init"]
+- !private ["SH", "mcPicker"]
+- !private ["SH", "popOverContentSize"]
+- !private ["SH", "preferredContentSize"]
+- !private ["SH", "sizeViews"]
+- !private ["SH", "view"]
+- !private ["SH", "viewDidLoad"]
+- !private ["8McPickerAAC", "addAllSubviews"]
+- !private ["8McPickerAAC", "popOverContentSize"]
+- !private ["8McPickerAAC", "sizeViews"]
+- ["8McPicker0aB21PopoverViewControllerC", "Bundle"]
+- ["8McPicker0aB21PopoverViewControllerC", "McPicker"]
+- ["8McPicker0aB21PopoverViewControllerC", "NSCoder"]
+- ["8McPicker0aB21PopoverViewControllerC", "String"]
+- ["8McPicker0aB21PopoverViewControllerC", "deinit"]
+- ["8McPicker0aB21PopoverViewControllerC", "init"]
+- ["8McPicker0aB21PopoverViewControllerC", "mcPicker"]
+- !private ["8McPicker0aB21PopoverViewControllerC", "preferredContentSize"]
+- !private ["8McPicker0aB21PopoverViewControllerC", "view"]
+- ["8McPicker0aB21PopoverViewControllerC", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "addAllSubviews"]
+- !private ["So8NSCodingP", "addSubview"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "mcPicker"]
+- !private ["So8NSCodingP", "popOverContentSize"]
+- !private ["So8NSCodingP", "preferredContentSize"]
+- !private ["So8NSCodingP", "sizeViews"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "mcPicker"]
+- !private ["So26NSExtensionRequestHandlingP", "preferredContentSize"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So8NSObjectC", "Bundle"]
+- ["So8NSObjectC", "McPicker"]
+- ["So8NSObjectC", "NSCoder"]
+- ["So8NSObjectC", "String"]
+- !private ["So8NSObjectC", "addAllSubviews"]
+- !private ["So8NSObjectC", "addSubview"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "mcPicker"]
+- !private ["So8NSObjectC", "popOverContentSize"]
+- !private ["So8NSObjectC", "preferredContentSize"]
+- !private ["So8NSObjectC", "sizeViews"]
+- !private ["So8NSObjectC", "view"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addAllSubviews"]
+- !private ["So8NSObjectP", "addSubview"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "mcPicker"]
+- !private ["So8NSObjectP", "popOverContentSize"]
+- !private ["So8NSObjectP", "preferredContentSize"]
+- !private ["So8NSObjectP", "sizeViews"]
+- !private ["So8NSObjectP", "view"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["Sq", "addSubview"]
+- !private ["So29UIAccessibilityIdentificationP", "addAllSubviews"]
+- !private ["So29UIAccessibilityIdentificationP", "addSubview"]
+- !private ["So29UIAccessibilityIdentificationP", "popOverContentSize"]
+- !private ["So29UIAccessibilityIdentificationP", "sizeViews"]
+- !private ["So40UIAdaptivePresentationControllerDelegateP", "addAllSubviews"]
+- !private ["So40UIAdaptivePresentationControllerDelegateP", "popOverContentSize"]
+- !private ["So40UIAdaptivePresentationControllerDelegateP", "sizeViews"]
+- !private ["So12UIAppearanceP", "addAllSubviews"]
+- !private ["So12UIAppearanceP", "addSubview"]
+- !private ["So12UIAppearanceP", "popOverContentSize"]
+- !private ["So12UIAppearanceP", "sizeViews"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "addAllSubviews"]
+- !private ["So21UIAppearanceContainerP", "addSubview"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "mcPicker"]
+- !private ["So21UIAppearanceContainerP", "popOverContentSize"]
+- !private ["So21UIAppearanceContainerP", "preferredContentSize"]
+- !private ["So21UIAppearanceContainerP", "sizeViews"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "mcPicker"]
+- !private ["So18UIContentContainerP", "preferredContentSize"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So17UICoordinateSpaceP", "addAllSubviews"]
+- !private ["So17UICoordinateSpaceP", "addSubview"]
+- !private ["So17UICoordinateSpaceP", "popOverContentSize"]
+- !private ["So17UICoordinateSpaceP", "sizeViews"]
+- !private ["So13UIDynamicItemP", "addAllSubviews"]
+- !private ["So13UIDynamicItemP", "addSubview"]
+- !private ["So13UIDynamicItemP", "popOverContentSize"]
+- !private ["So13UIDynamicItemP", "sizeViews"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "addAllSubviews"]
+- !private ["So18UIFocusEnvironmentP", "addSubview"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "mcPicker"]
+- !private ["So18UIFocusEnvironmentP", "popOverContentSize"]
+- !private ["So18UIFocusEnvironmentP", "preferredContentSize"]
+- !private ["So18UIFocusEnvironmentP", "sizeViews"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "addAllSubviews"]
+- !private ["So11UIFocusItemP", "addSubview"]
+- !private ["So11UIFocusItemP", "popOverContentSize"]
+- !private ["So11UIFocusItemP", "sizeViews"]
+- !private ["So20UIFocusItemContainerP", "addAllSubviews"]
+- !private ["So20UIFocusItemContainerP", "addSubview"]
+- !private ["So20UIFocusItemContainerP", "popOverContentSize"]
+- !private ["So20UIFocusItemContainerP", "sizeViews"]
+- !private ["So27UIGestureRecognizerDelegateP", "addAllSubviews"]
+- !private ["So27UIGestureRecognizerDelegateP", "popOverContentSize"]
+- !private ["So27UIGestureRecognizerDelegateP", "sizeViews"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "addAllSubviews"]
+- !private ["So30UIPasteConfigurationSupportingP", "addSubview"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "mcPicker"]
+- !private ["So30UIPasteConfigurationSupportingP", "popOverContentSize"]
+- !private ["So30UIPasteConfigurationSupportingP", "preferredContentSize"]
+- !private ["So30UIPasteConfigurationSupportingP", "sizeViews"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So22UIPickerViewDataSourceP", "addAllSubviews"]
+- !private ["So22UIPickerViewDataSourceP", "popOverContentSize"]
+- !private ["So22UIPickerViewDataSourceP", "sizeViews"]
+- !private ["So20UIPickerViewDelegateP", "addAllSubviews"]
+- !private ["So20UIPickerViewDelegateP", "popOverContentSize"]
+- !private ["So20UIPickerViewDelegateP", "sizeViews"]
+- !private ["So39UIPopoverPresentationControllerDelegateP", "addAllSubviews"]
+- !private ["So39UIPopoverPresentationControllerDelegateP", "popOverContentSize"]
+- !private ["So39UIPopoverPresentationControllerDelegateP", "sizeViews"]
+- ["So11UIResponderC", "Bundle"]
+- ["So11UIResponderC", "McPicker"]
+- ["So11UIResponderC", "NSCoder"]
+- ["So11UIResponderC", "String"]
+- !private ["So11UIResponderC", "addAllSubviews"]
+- !private ["So11UIResponderC", "addSubview"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "mcPicker"]
+- !private ["So11UIResponderC", "popOverContentSize"]
+- !private ["So11UIResponderC", "preferredContentSize"]
+- !private ["So11UIResponderC", "sizeViews"]
+- !private ["So11UIResponderC", "view"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "addAllSubviews"]
+- !private ["So30UIResponderStandardEditActionsP", "addSubview"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "mcPicker"]
+- !private ["So30UIResponderStandardEditActionsP", "popOverContentSize"]
+- !private ["So30UIResponderStandardEditActionsP", "preferredContentSize"]
+- !private ["So30UIResponderStandardEditActionsP", "sizeViews"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "mcPicker"]
+- !private ["So16UIStateRestoringP", "preferredContentSize"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So19UITextFieldDelegateP", "addAllSubviews"]
+- !private ["So19UITextFieldDelegateP", "popOverContentSize"]
+- !private ["So19UITextFieldDelegateP", "sizeViews"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "addAllSubviews"]
+- !private ["So18UITraitEnvironmentP", "addSubview"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "mcPicker"]
+- !private ["So18UITraitEnvironmentP", "popOverContentSize"]
+- !private ["So18UITraitEnvironmentP", "preferredContentSize"]
+- !private ["So18UITraitEnvironmentP", "sizeViews"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "addAllSubviews"]
+- !private ["So23UIUserActivityRestoringP", "addSubview"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "mcPicker"]
+- !private ["So23UIUserActivityRestoringP", "popOverContentSize"]
+- !private ["So23UIUserActivityRestoringP", "preferredContentSize"]
+- !private ["So23UIUserActivityRestoringP", "sizeViews"]
+- !private ["So23UIUserActivityRestoringP", "view"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "addAllSubviews"]
+- !private ["So6UIViewC", "addSubview"]
+- !private ["So6UIViewC", "popOverContentSize"]
+- !private ["So6UIViewC", "sizeViews"]
+- ["So16UIViewControllerC", "Bundle"]
+- ["So16UIViewControllerC", "McPicker"]
+- ["So16UIViewControllerC", "NSCoder"]
+- ["So16UIViewControllerC", "String"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "mcPicker"]
+- !private ["So16UIViewControllerC", "preferredContentSize"]
+- !private ["So16UIViewControllerC", "view"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addAllSubviews"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addSubview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "mcPicker"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "popOverContentSize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "preferredContentSize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sizeViews"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "addSubview"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "addAllSubviews"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "addSubview"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "popOverContentSize"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "sizeViews"]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- !private "8McPickerAAC"
+- "8McPicker0aB21PopoverViewControllerC"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So40UIAdaptivePresentationControllerDelegateP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So27UIGestureRecognizerDelegateP"
+- "So30UIPasteConfigurationSupportingP"
+- !private "So22UIPickerViewDataSourceP"
+- !private "So20UIPickerViewDelegateP"
+- !private "So39UIPopoverPresentationControllerDelegateP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- !private "So19UITextFieldDelegateP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/Pods/Target Support Files/McPicker/McPicker-umbrella.h"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/McPicker.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "572d6ff9a5f5f6f4601d41728c6a3869"

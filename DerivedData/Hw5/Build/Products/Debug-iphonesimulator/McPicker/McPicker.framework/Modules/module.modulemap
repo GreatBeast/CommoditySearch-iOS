@@ -1,0 +1,11 @@
+framework module McPicker {
+  umbrella header "McPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module McPicker.Swift {
+    header "McPicker-Swift.h"
+    requires objc
+}

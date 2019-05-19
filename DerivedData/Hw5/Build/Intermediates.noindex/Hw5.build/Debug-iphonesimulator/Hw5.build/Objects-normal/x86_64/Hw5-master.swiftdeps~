@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "2cde82d576a8fd1ee3154b9876609064"
+build_time: [1556239599, 123260000]
+inputs:
+  "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/Hw5/WishCell.swift": [1555299649, 869795339]
+  "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/Hw5/ZipCell.swift": [1554942578, 491786783]
+  "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/Hw5/Item.swift": [1555301734, 148338640]
+  "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/Hw5/ViewController.swift": [1556078291, 119951458]
+  "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/Hw5/NormalCell.swift": [1555022292, 14942474]
+  "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/Hw5/AppDelegate.swift": [1554674475, 585987093]
+  "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/Hw5/SecondViewController.swift": [1556173693, 504502587]
+  "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/Hw5/FourthViewController.swift": [1556174128, 475117898]
+  "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/Hw5/ItemCell.swift": [1555006643, 680488840]
+  "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/Hw5/NameValueCell.swift": [1556173334, 901655423]
+  "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/Hw5/WishItem.swift": [1555304785, 577259081]
+  "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/Hw5/HeaderCell.swift": [1554856219, 840953686]
+  "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/Hw5/TabBarController.swift": [1555020429, 373711268]
+  "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/Hw5/ResultViewController.swift": [1555908941, 306803093]
+  "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/Hw5/SimilarCell.swift": [1554913636, 878693532]
+  "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/Hw5/ThirdViewController.swift": [1556239599, 23028792]
+  "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/Hw5/WishListController.swift": [1555305119, 677803690]
+  "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/Hw5/FirstViewController.swift": [1556172962, 518227172]

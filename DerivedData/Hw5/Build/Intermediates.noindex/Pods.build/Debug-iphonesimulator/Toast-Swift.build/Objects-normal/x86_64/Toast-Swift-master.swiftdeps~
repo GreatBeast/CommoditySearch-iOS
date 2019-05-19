@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "de5921c52f9dec88dc4741ed389bf12c"
+build_time: [1555297346, 33537000]
+inputs:
+  "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/Pods/Toast-Swift/Toast/Toast.swift": [1554693229, 479107996]

@@ -1,0 +1,404 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "McTextField"
+provides-nominal:
+- "8McPicker0A9TextFieldC"
+provides-member:
+- ["8McPicker0A9TextFieldC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "Int"
+- "McPicker"
+- "McTextField"
+- "String"
+- "UITextField"
+- "Void"
+depends-member:
+- ["So15CALayerDelegateP", "CancelHandler"]
+- ["So15CALayerDelegateP", "DoneHandler"]
+- ["So15CALayerDelegateP", "SelectionChangedHandler"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "delegate"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "inputViewMcPicker"]
+- ["s7CVarArgP", "CancelHandler"]
+- ["s7CVarArgP", "DoneHandler"]
+- ["s7CVarArgP", "SelectionChangedHandler"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "inputViewMcPicker"]
+- ["s28CustomDebugStringConvertibleP", "CancelHandler"]
+- ["s28CustomDebugStringConvertibleP", "DoneHandler"]
+- ["s28CustomDebugStringConvertibleP", "SelectionChangedHandler"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "inputViewMcPicker"]
+- ["s23CustomStringConvertibleP", "CancelHandler"]
+- ["s23CustomStringConvertibleP", "DoneHandler"]
+- ["s23CustomStringConvertibleP", "SelectionChangedHandler"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "inputViewMcPicker"]
+- ["SQ", "CancelHandler"]
+- ["SQ", "DoneHandler"]
+- ["SQ", "SelectionChangedHandler"]
+- ["SQ", ""]
+- !private ["SQ", "delegate"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "inputViewMcPicker"]
+- ["SH", "CancelHandler"]
+- ["SH", "DoneHandler"]
+- ["SH", "SelectionChangedHandler"]
+- ["SH", ""]
+- !private ["SH", "delegate"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "inputViewMcPicker"]
+- ["8McPickerAAC", "CancelHandler"]
+- ["8McPickerAAC", "DoneHandler"]
+- ["8McPickerAAC", "SelectionChangedHandler"]
+- !private ["8McPickerAAC", "deinit"]
+- ["8McPicker0A9TextFieldC", "Int"]
+- ["8McPicker0A9TextFieldC", "McPicker"]
+- ["8McPicker0A9TextFieldC", "String"]
+- ["8McPicker0A9TextFieldC", "Void"]
+- ["8McPicker0A9TextFieldC", "cancelHandler"]
+- ["8McPicker0A9TextFieldC", "deinit"]
+- !private ["8McPicker0A9TextFieldC", "delegate"]
+- ["8McPicker0A9TextFieldC", "doneHandler"]
+- ["8McPicker0A9TextFieldC", "init"]
+- ["8McPicker0A9TextFieldC", "inputViewMcPicker"]
+- ["8McPicker0A9TextFieldC", "selectionChangedHandler"]
+- ["8McPicker0A9TextFieldC", "textFieldWillBeginEditingHandler"]
+- ["So8NSCodingP", "CancelHandler"]
+- ["So8NSCodingP", "DoneHandler"]
+- ["So8NSCodingP", "SelectionChangedHandler"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "delegate"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "inputViewMcPicker"]
+- ["So8NSObjectC", "CancelHandler"]
+- ["So8NSObjectC", "DoneHandler"]
+- ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "McPicker"]
+- ["So8NSObjectC", "SelectionChangedHandler"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "Void"]
+- ["So8NSObjectC", "cancelHandler"]
+- !private ["So8NSObjectC", "delegate"]
+- ["So8NSObjectC", "doneHandler"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "inputViewMcPicker"]
+- ["So8NSObjectC", "selectionChangedHandler"]
+- ["So8NSObjectC", "textFieldWillBeginEditingHandler"]
+- ["So8NSObjectP", "CancelHandler"]
+- ["So8NSObjectP", "DoneHandler"]
+- ["So8NSObjectP", "SelectionChangedHandler"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "delegate"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "inputViewMcPicker"]
+- ["So29UIAccessibilityIdentificationP", "CancelHandler"]
+- ["So29UIAccessibilityIdentificationP", "DoneHandler"]
+- ["So29UIAccessibilityIdentificationP", "SelectionChangedHandler"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "delegate"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "inputViewMcPicker"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "CancelHandler"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "DoneHandler"]
+- ["So40UIAdaptivePresentationControllerDelegateP", "SelectionChangedHandler"]
+- ["So12UIAppearanceP", "CancelHandler"]
+- ["So12UIAppearanceP", "DoneHandler"]
+- ["So12UIAppearanceP", "SelectionChangedHandler"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "delegate"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "inputViewMcPicker"]
+- ["So21UIAppearanceContainerP", "CancelHandler"]
+- ["So21UIAppearanceContainerP", "DoneHandler"]
+- ["So21UIAppearanceContainerP", "SelectionChangedHandler"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "delegate"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "inputViewMcPicker"]
+- ["So30UIContentSizeCategoryAdjustingP", ""]
+- !private ["So30UIContentSizeCategoryAdjustingP", "delegate"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "init"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "init"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "inputViewMcPicker"]
+- ["So9UIControlC", "Int"]
+- ["So9UIControlC", "McPicker"]
+- ["So9UIControlC", "String"]
+- ["So9UIControlC", "Void"]
+- ["So9UIControlC", "cancelHandler"]
+- !private ["So9UIControlC", "delegate"]
+- ["So9UIControlC", "doneHandler"]
+- ["So9UIControlC", "init"]
+- !private ["So9UIControlC", "init"]
+- ["So9UIControlC", "inputViewMcPicker"]
+- ["So9UIControlC", "selectionChangedHandler"]
+- ["So9UIControlC", "textFieldWillBeginEditingHandler"]
+- ["So17UICoordinateSpaceP", "CancelHandler"]
+- ["So17UICoordinateSpaceP", "DoneHandler"]
+- ["So17UICoordinateSpaceP", "SelectionChangedHandler"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "delegate"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "inputViewMcPicker"]
+- ["So13UIDynamicItemP", "CancelHandler"]
+- ["So13UIDynamicItemP", "DoneHandler"]
+- ["So13UIDynamicItemP", "SelectionChangedHandler"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "delegate"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "inputViewMcPicker"]
+- ["So18UIFocusEnvironmentP", "CancelHandler"]
+- ["So18UIFocusEnvironmentP", "DoneHandler"]
+- ["So18UIFocusEnvironmentP", "SelectionChangedHandler"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "delegate"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "inputViewMcPicker"]
+- ["So11UIFocusItemP", "CancelHandler"]
+- ["So11UIFocusItemP", "DoneHandler"]
+- ["So11UIFocusItemP", "SelectionChangedHandler"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "delegate"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "inputViewMcPicker"]
+- ["So20UIFocusItemContainerP", "CancelHandler"]
+- ["So20UIFocusItemContainerP", "DoneHandler"]
+- ["So20UIFocusItemContainerP", "SelectionChangedHandler"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "delegate"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "inputViewMcPicker"]
+- ["So27UIGestureRecognizerDelegateP", "CancelHandler"]
+- ["So27UIGestureRecognizerDelegateP", "DoneHandler"]
+- ["So27UIGestureRecognizerDelegateP", "SelectionChangedHandler"]
+- ["So10UIKeyInputP", ""]
+- !private ["So10UIKeyInputP", "delegate"]
+- !private ["So10UIKeyInputP", "init"]
+- !private ["So10UIKeyInputP", "init"]
+- !private ["So10UIKeyInputP", "inputViewMcPicker"]
+- ["So30UIPasteConfigurationSupportingP", "CancelHandler"]
+- ["So30UIPasteConfigurationSupportingP", "DoneHandler"]
+- ["So30UIPasteConfigurationSupportingP", "SelectionChangedHandler"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "delegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "inputViewMcPicker"]
+- ["So22UIPickerViewDataSourceP", "CancelHandler"]
+- ["So22UIPickerViewDataSourceP", "DoneHandler"]
+- ["So22UIPickerViewDataSourceP", "SelectionChangedHandler"]
+- ["So20UIPickerViewDelegateP", "CancelHandler"]
+- ["So20UIPickerViewDelegateP", "DoneHandler"]
+- ["So20UIPickerViewDelegateP", "SelectionChangedHandler"]
+- ["So39UIPopoverPresentationControllerDelegateP", "CancelHandler"]
+- ["So39UIPopoverPresentationControllerDelegateP", "DoneHandler"]
+- ["So39UIPopoverPresentationControllerDelegateP", "SelectionChangedHandler"]
+- ["So11UIResponderC", "CancelHandler"]
+- ["So11UIResponderC", "DoneHandler"]
+- ["So11UIResponderC", "Int"]
+- ["So11UIResponderC", "McPicker"]
+- ["So11UIResponderC", "SelectionChangedHandler"]
+- ["So11UIResponderC", "String"]
+- ["So11UIResponderC", "Void"]
+- ["So11UIResponderC", "cancelHandler"]
+- !private ["So11UIResponderC", "delegate"]
+- ["So11UIResponderC", "doneHandler"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "inputViewMcPicker"]
+- ["So11UIResponderC", "selectionChangedHandler"]
+- ["So11UIResponderC", "textFieldWillBeginEditingHandler"]
+- ["So30UIResponderStandardEditActionsP", "CancelHandler"]
+- ["So30UIResponderStandardEditActionsP", "DoneHandler"]
+- ["So30UIResponderStandardEditActionsP", "SelectionChangedHandler"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "delegate"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "inputViewMcPicker"]
+- ["So15UITextDraggableP", ""]
+- !private ["So15UITextDraggableP", "delegate"]
+- !private ["So15UITextDraggableP", "init"]
+- !private ["So15UITextDraggableP", "init"]
+- !private ["So15UITextDraggableP", "inputViewMcPicker"]
+- ["So15UITextDroppableP", ""]
+- !private ["So15UITextDroppableP", "delegate"]
+- !private ["So15UITextDroppableP", "init"]
+- !private ["So15UITextDroppableP", "init"]
+- !private ["So15UITextDroppableP", "inputViewMcPicker"]
+- ["So11UITextFieldC", "Int"]
+- ["So11UITextFieldC", "McPicker"]
+- ["So11UITextFieldC", "String"]
+- ["So11UITextFieldC", "Void"]
+- ["So11UITextFieldC", ""]
+- ["So11UITextFieldC", "cancelHandler"]
+- !private ["So11UITextFieldC", "delegate"]
+- ["So11UITextFieldC", "doneHandler"]
+- ["So11UITextFieldC", "init"]
+- !private ["So11UITextFieldC", "init"]
+- ["So11UITextFieldC", "inputViewMcPicker"]
+- ["So11UITextFieldC", "selectionChangedHandler"]
+- ["So11UITextFieldC", "textFieldWillBeginEditingHandler"]
+- ["So19UITextFieldDelegateP", "CancelHandler"]
+- ["So19UITextFieldDelegateP", "DoneHandler"]
+- ["So19UITextFieldDelegateP", "SelectionChangedHandler"]
+- ["So11UITextInputP", ""]
+- !private ["So11UITextInputP", "delegate"]
+- !private ["So11UITextInputP", "init"]
+- !private ["So11UITextInputP", "init"]
+- !private ["So11UITextInputP", "inputViewMcPicker"]
+- ["So17UITextInputTraitsP", ""]
+- !private ["So17UITextInputTraitsP", "delegate"]
+- !private ["So17UITextInputTraitsP", "init"]
+- !private ["So17UITextInputTraitsP", "init"]
+- !private ["So17UITextInputTraitsP", "inputViewMcPicker"]
+- ["So34UITextPasteConfigurationSupportingP", ""]
+- !private ["So34UITextPasteConfigurationSupportingP", "delegate"]
+- !private ["So34UITextPasteConfigurationSupportingP", "init"]
+- !private ["So34UITextPasteConfigurationSupportingP", "init"]
+- !private ["So34UITextPasteConfigurationSupportingP", "inputViewMcPicker"]
+- ["So18UITraitEnvironmentP", "CancelHandler"]
+- ["So18UITraitEnvironmentP", "DoneHandler"]
+- ["So18UITraitEnvironmentP", "SelectionChangedHandler"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "delegate"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "inputViewMcPicker"]
+- ["So23UIUserActivityRestoringP", "CancelHandler"]
+- ["So23UIUserActivityRestoringP", "DoneHandler"]
+- ["So23UIUserActivityRestoringP", "SelectionChangedHandler"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "delegate"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "inputViewMcPicker"]
+- ["So6UIViewC", "CancelHandler"]
+- ["So6UIViewC", "DoneHandler"]
+- ["So6UIViewC", "Int"]
+- ["So6UIViewC", "McPicker"]
+- ["So6UIViewC", "SelectionChangedHandler"]
+- ["So6UIViewC", "String"]
+- ["So6UIViewC", "Void"]
+- ["So6UIViewC", "cancelHandler"]
+- !private ["So6UIViewC", "delegate"]
+- ["So6UIViewC", "doneHandler"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "init"]
+- ["So6UIViewC", "inputViewMcPicker"]
+- ["So6UIViewC", "selectionChangedHandler"]
+- ["So6UIViewC", "textFieldWillBeginEditingHandler"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "CancelHandler"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "DoneHandler"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "SelectionChangedHandler"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "inputViewMcPicker"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "CancelHandler"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "DoneHandler"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "SelectionChangedHandler"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "delegate"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "inputViewMcPicker"]
+depends-nominal:
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- "8McPickerAAC"
+- "8McPicker0A9TextFieldC"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So29UIAccessibilityIdentificationP"
+- "So40UIAdaptivePresentationControllerDelegateP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So30UIContentSizeCategoryAdjustingP"
+- "So9UIControlC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So27UIGestureRecognizerDelegateP"
+- "So10UIKeyInputP"
+- "So30UIPasteConfigurationSupportingP"
+- "So22UIPickerViewDataSourceP"
+- "So20UIPickerViewDelegateP"
+- "So39UIPopoverPresentationControllerDelegateP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So15UITextDraggableP"
+- "So15UITextDroppableP"
+- "So11UITextFieldC"
+- "So19UITextFieldDelegateP"
+- "So11UITextInputP"
+- "So17UITextInputTraitsP"
+- "So34UITextPasteConfigurationSupportingP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/Pods/Target Support Files/McPicker/McPicker-umbrella.h"
+- "/Users/zhengnanzhu/Desktop/docu/Web/Hw5/DerivedData/Hw5/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/McPicker.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "57bfc5b65ef57b3ea9c029ff6a1e19c2"
